@@ -9,7 +9,7 @@ First we had to write a scraper using Selenium to fetch messsages posted in Edmu
 From there, we determined the most popular brands in the forumn, the brands that are closely associated with one another, the attributes brands were strongly associated with, and the most aspirational brand. This code can be found in the file 'Car Project.ipynb'.
 
 # Our Team
-Luke Bravo
-Pete Davis
-Benjamin Deutsch
-Khoi Tran
+Luke Bravo ;
+Pete Davis ;
+Benjamin Deutsch ;
+Khoi Tran ;
