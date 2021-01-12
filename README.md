@@ -11,5 +11,5 @@ From there, we determined the most popular brands in the forumn, the brands that
 # Our Team
 Luke Bravo \
 Pete Davis \
-Benjamin Deutsch \ 
+Benjamin Deutsch\
 Khoi Tran 
