@@ -12,4 +12,4 @@ From there, we determined the most popular brands in the forumn, the brands that
 Luke Bravo \
 Pete Davis \
 Benjamin Deutsch \ 
-Khoi Tran \
+Khoi Tran 
